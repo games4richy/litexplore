@@ -86,8 +86,37 @@ footer{background:#110e07;border-top:1px solid rgba(255,255,255,.06)}.footer-inn
     </div>
   </div>
 
+  <style>
+.form-wrap { max-width: 480px; margin: 2rem auto; background: #fff; border: 0.5px solid rgba(0,0,0,0.12); border-radius: 12px; padding: 2rem; }
+.form-title { font-size: 20px; font-weight: 500; margin: 0 0 0.25rem; }
+.form-sub { font-size: 14px; color: #666; margin: 0 0 1.75rem; }
+.field { margin-bottom: 1.25rem; }
+.field label { display: block; font-size: 13px; font-weight: 500; color: #555; margin-bottom: 6px; }
+.field input, .field textarea { width: 100%; box-sizing: border-box; padding: 10px 14px; font-size: 15px; background: #f5f5f3; border: 0.5px solid rgba(0,0,0,0.2); border-radius: 8px; outline: none; font-family: inherit; resize: none; transition: border-color 0.15s, box-shadow 0.15s; }
+.field input:focus, .field textarea:focus { border-color: #378ADD; box-shadow: 0 0 0 3px rgba(55,138,221,0.12); }
+.field textarea { min-height: 120px; }
+.submit-btn { width: 100%; padding: 11px; font-size: 15px; font-weight: 500; color: #fff; background: #c8562a; border: none; border-radius: 8px; cursor: pointer; font-family: inherit; transition: background 0.15s; }
+.submit-btn:hover { background: #0C447C; }
+</style>
+
+<div class="form-wrap">
+  <p class="form-title">Get in touch</p>
+  <p class="form-sub">Fill out the form below and I'll get back to you shortly.</p>
+  <form action="https://formspree.io/f/xeewvvda" method="POST">
+    <div class="field">
+      <label for="email">Your email</label>
+      <input type="email" id="email" name="email" placeholder="you@example.com">
+    </div>
+    <div class="field">
+      <label for="message">Your message</label>
+      <textarea id="message" name="message" placeholder="What's on your mind?"></textarea>
+    </div>
+    <button type="submit" class="submit-btn">Send message</button>
+  </form>
+</div>
+
   <h2>Email</h2>
-  <p>The best way to reach us is by email at <a href="mailto:hello@litexplore.com">hello@litexplore.com</a>. Please include the specific article URL if your message relates to a particular piece of content. This helps us respond more quickly and accurately.</p>
+  <p>The best way to reach us is by email at <a href="mailto:litexploreofficial@gmail.com">litexploreofficial@gmail.com</a>. Please include the specific article URL if your message relates to a particular piece of content. This helps us respond more quickly and accurately.</p>
 
   <div class="callout"><p><strong>Please note:</strong> LitExplore does not provide personalized visa advice, legal advice, or financial advice. For visa decisions, always verify current requirements with the official embassy or consulate of your destination country. Our guides are for informational purposes and reflect conditions at the time of writing.</p></div>
 
