@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:fo="http://www.w3.org/1999/XSL/Format"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
@@ -13,238 +9,239 @@
 
 <url>
   <loc>https://litexplore.com/</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://litexplore.com/destinations</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/travel-tips</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/budget-travel</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/visa-immigration</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/hotels</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/dubai-travel-guide-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/first-international-trip-nigeria-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/travel-naira-budget-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/uk-visit-visa-nigeria-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/hostel-vs-hotel-vs-airbnb-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/bangkok-travel-guide-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/best-countries-to-visit-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/japan-travel-guide-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/how-to-plan-international-trip-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/solo-travel-guide-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/how-to-book-cheap-flights-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/travel-insurance-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/how-to-use-esims-international-travel-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/cheapest-countries-to-visit-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/budget-travel-southeast-asia-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/how-to-find-cheap-hotels-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/etias-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/canada-visa-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/schengen-visa-application-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/best-booking-sites-for-hotels-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/how-to-get-hotel-room-upgrade-free-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/best-cheap-hotels-bangkok-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/all-inclusive-vs-regular-hotels-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/hotel-hopping-trend-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/about</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/contact</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/privacy-policy</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/terms-of-service</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://litexplore.com/disclaimer</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/europe-underrated-destinations-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/southeast-asia-travel-guide-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/rio-de-janeiro-travel-guide-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/how-to-plan-international-trip-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/solo-travel-guide-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/how-to-book-cheap-flights-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/travel-insurance-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/digital-nomad-travel-guide-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/how-to-use-esims-international-travel-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/how-to-travel-europe-on-50-dollars-a-day-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/cheapest-countries-to-visit-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/how-to-travel-for-free-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/budget-travel-southeast-asia-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/how-to-find-cheap-hotels-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/budget-travel-tips-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/etias-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/canada-visa-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/schengen-visa-application-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/countries-visa-on-arrival-nigerian-passport-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/us-tourist-visa-b1-b2-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/working-holiday-visa-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/best-booking-sites-for-hotels-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/how-to-get-hotel-room-upgrade-free-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/best-cheap-hotels-bangkok-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/all-inclusive-vs-regular-hotels-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/hotel-hopping-trend-2026</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://litexplore.com/how-to-find-last-minute-hotel-deals-2026</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://litexplore.com/author/amara-nwosu</loc>
-  <lastmod>2026-06-26T12:35:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://litexplore.com/about</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/contact</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/privacy-policy</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/terms-of-service</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/disclaimer</loc>
+  <lastmod>2026-06-11T11:53:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
+
+<url>
+  <loc>https://litexplore.com/author/amara-nwosu</loc>
+  <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/dubai-travel-guide-2026</loc>
+  <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/first-international-trip-nigeria-2026</loc>
+  <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/travel-naira-budget-2026</loc>
+  <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/uk-visit-visa-nigeria-2026</loc>
+  <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://litexplore.com/hostel-vs-hotel-vs-airbnb-2026</loc>
+  <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 </urlset>

@@ -53,6 +53,16 @@ html{scroll-behavior:smooth}body{font-family:var(--font-body);background:var(--c
 footer{background:#110e07;border-top:1px solid rgba(255,255,255,.06)}.footer-inner{max-width:1280px;margin:0 auto;padding:56px 24px 32px}.footer-top{display:grid;grid-template-columns:2fr 1fr 1fr;gap:40px;padding-bottom:40px;border-bottom:1px solid rgba(255,255,255,.07)}.footer-brand p{font-family:var(--font-serif);font-size:.88rem;color:#6b5f52;margin-top:12px;line-height:1.7;max-width:300px}.footer-col h4{font-size:.72rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#a89e92;margin-bottom:16px}.footer-col a{display:block;font-size:.85rem;color:#6b5f52;margin-bottom:10px;text-decoration:none;transition:color .2s}.footer-col a:hover{color:var(--cream)}.footer-bottom{padding-top:24px;display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}.footer-bottom p{font-size:.78rem;color:#4a4238}.footer-legal{display:flex;gap:16px}.footer-legal a{font-size:.78rem;color:#4a4238;text-decoration:none;transition:color .2s}.footer-legal a:hover{color:#a89e92}
 @media(max-width:1024px){.article-wrap{grid-template-columns:1fr}.article-sidebar{display:none}.footer-top{grid-template-columns:1fr 1fr}.footer-brand{grid-column:1/-1}.related-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:768px){.main-nav{display:none}.hamburger{display:flex}.article-hero img{height:340px;object-position:center 20%}.article-hero-content{padding:28px 16px}.article-wrap{padding:28px 16px}.related-grid{grid-template-columns:1fr}.footer-top{grid-template-columns:1fr;gap:24px}}
+
+/* ─── ARTICLE HEADER (in-column, aligned with sidebar) ─── */
+.article-header-plain{margin:0 0 28px}
+.article-title-v2{font-family:var(--font-display);font-size:clamp(1.6rem,3.6vw,2.6rem);font-weight:900;color:var(--ink);line-height:1.15;letter-spacing:-.02em;margin:16px 0}
+.article-meta-v2{display:flex;align-items:center;gap:16px;font-size:.85rem;color:var(--muted);flex-wrap:wrap}
+.article-meta-v2 .dot{width:3px;height:3px;background:currentColor;border-radius:50%}
+.article-meta-v2 a{color:var(--muted);text-decoration:underline}
+.article-featured-img-wrap{width:100%;margin:0 0 36px}
+.article-featured-img-wrap img{width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 10px 34px rgba(26,20,9,.18)}
+.article-header-plain a.article-category{color:#fff}
 </style>
 </head>
 <body>
@@ -78,24 +88,24 @@ footer{background:#110e07;border-top:1px solid rgba(255,255,255,.06)}.footer-inn
     <a href="https://litexplore.com/hotels">Hotels</a>
   </nav>
 </header>
-<div class="article-hero">
-  <img src="https://litexplore.com/src/first-international-trip-nigeria-2026.webp" alt="Nigerian passport and travel documents for first international trip" width="1280" height="500"/>
-  <div class="article-hero-overlay"></div>
-  <div class="article-hero-content">
-    <a href="https://litexplore.com/travel-tips" class="article-category">Travel Tips</a>
-    <h1 class="article-title">Your First International Trip from Nigeria: The Complete Checklist for 2026</h1>
-    <div class="article-meta">
-      <span>By <a href="https://litexplore.com/author/amara-nwosu" style="color:rgba(240,232,216,.8);text-decoration:none;">Amara Nwosu</a></span>
+<div class="article-wrap">
+<article class="article-body">
+<div class="prose">
+<div class="article-header-plain">
+  <a href="https://litexplore.com/travel-tips" class="article-category">Travel Tips</a>
+  <h1 class="article-title-v2">Your First International Trip from Nigeria: The Complete Checklist for 2026</h1>
+  <div class="article-meta-v2">
+      <span>By <a href="https://litexplore.com/author/amara-nwosu">Amara Nwosu</a></span>
       <span class="dot"></span>
       <span>June 26, 2026</span>
       <span class="dot"></span>
       <span>14 min read</span>
     </div>
-  </div>
 </div>
-<div class="article-wrap">
-<article class="article-body">
-<div class="prose">
+<div class="article-featured-img-wrap">
+  <img src="https://litexplore.com/src/first-international-trip-nigeria-2026.webp" alt="Nigerian passport and travel documents for first international trip" width="1280" height="500"/>
+</div>
+
 <div class="affiliate-disclosure"><strong>Disclosure:</strong> Some links in this guide may earn LitExplore a small commission at no extra cost to you. This never affects our editorial recommendations.</div>
 
 <p>I sat in Lagos airport three hours before my first international flight with a bag that was 4 kilograms over the weight limit and a visa that I had not checked against my flight dates until that morning. The visa was fine. The bag was not. I paid an excess baggage fee I could not afford at the time and vowed I would never be that unprepared again.</p>
