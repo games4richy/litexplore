@@ -4,7 +4,15 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Terms of Service | LitExplore</title>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0CDY689QE5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-0CDY689QE5');
+</script>
   <link rel="icon" type="image/x-icon" href="https://litexplore.com/favicon.ico">
 <meta name="description" content="LitExplore's terms of service. The conditions governing your use of litexplore.com."/>
 <meta name="author" content="LitExplore"/>
@@ -83,7 +91,7 @@ footer{background:#110e07;border-top:1px solid rgba(255,255,255,.06)}.footer-inn
 
   <h2>Intellectual Property</h2>
   <p>All content on the Site, including text, images, graphics, and design elements, is owned by LitExplore or its licensors and is protected by copyright and other intellectual property laws. You may share links to our articles and quote brief excerpts with attribution, but may not reproduce substantial portions of our content without permission.</p>
-  <p>If you believe your intellectual property rights have been infringed, please contact us at <a href="mailto:legal@litexplore.com">legal@litexplore.com</a> with details of your claim.</p>
+  <p>If you believe your intellectual property rights have been infringed, please contact us at <a href="mailto:litexploreofficial@gmail.com">litexploreofficial@gmail.com</a> with details of your claim.</p>
 
   <h2>Third-Party Links</h2>
   <p>The Site contains links to third-party websites and services. These links are provided for convenience and informational purposes. LitExplore has no control over third-party sites and accepts no responsibility for their content, privacy practices, or accuracy. Linking to a third-party site does not constitute an endorsement.</p>
@@ -104,7 +112,7 @@ footer{background:#110e07;border-top:1px solid rgba(255,255,255,.06)}.footer-inn
   <p>We may update these Terms from time to time. We will indicate the date of the most recent update at the top of this page. Continued use of the Site after changes constitutes acceptance of the updated Terms.</p>
 
   <h2>Contact</h2>
-  <p>For questions about these Terms, contact us at <a href="mailto:legal@litexplore.com">legal@litexplore.com</a> or via our <a href="https://litexplore.com/contact">contact page</a>.</p>
+  <p>For questions about these Terms, contact us at <a href="mailto:litexploreofficial@gmail.com">litexploreofficial@gmail.com</a> or via our <a href="https://litexplore.com/contact">contact page</a>.</p>
 </div>
 <footer>
   <div class="footer-inner">
@@ -117,5 +125,104 @@ footer{background:#110e07;border-top:1px solid rgba(255,255,255,.06)}.footer-inn
   </div>
 </footer>
 <script>const h=document.getElementById('hamburger'),n=document.getElementById('mobileNav');h.addEventListener('click',()=>{const o=n.classList.toggle('open');h.classList.toggle('open',o);h.setAttribute('aria-expanded',o)});</script>
+
+<!-- ═══════════════════ COOKIE CONSENT BANNER ═══════════════════ -->
+<style>
+  .cookie-banner {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 4000;
+    background: #14100a;
+    color: #f7f3ec;
+    padding: 18px 24px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    box-shadow: 0 -4px 20px rgba(0,0,0,0.25);
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    transform: translateY(0);
+    transition: transform 0.4s ease;
+  }
+  .cookie-banner.cookie-hidden { transform: translateY(100%); }
+  .cookie-banner p {
+    margin: 0;
+    flex: 1 1 320px;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: #f0ebe0;
+  }
+  .cookie-banner p a {
+    color: var(--gold, #b8963a);
+    text-decoration: underline;
+    font-weight: 600;
+  }
+  .cookie-actions {
+    display: flex;
+    gap: 12px;
+    flex-shrink: 0;
+  }
+  .cookie-btn {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 10px 22px;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    white-space: nowrap;
+  }
+  .cookie-btn-decline {
+    background: transparent;
+    color: #f0ebe0;
+    border: 1px solid rgba(240,235,224,0.4);
+  }
+  .cookie-btn-decline:hover { background: rgba(255,255,255,0.08); }
+  .cookie-btn-accept {
+    background: var(--accent, #c8562a);
+    color: #fff;
+  }
+  .cookie-btn-accept:hover { background: var(--accent-light, #e8793f); }
+  @media (max-width: 560px) {
+    .cookie-banner { padding: 16px; }
+    .cookie-actions { width: 100%; justify-content: flex-end; }
+  }
+</style>
+<div class="cookie-banner" id="cookieBanner" role="dialog" aria-label="Cookie consent">
+  <p>We use cookies to improve your experience and show relevant ads. See our <a href="https://litexplore.com/privacy-policy">Privacy Policy</a> for details.</p>
+  <div class="cookie-actions">
+    <button type="button" class="cookie-btn cookie-btn-decline" id="cookieDecline">Decline</button>
+    <button type="button" class="cookie-btn cookie-btn-accept" id="cookieAccept">Accept Cookies</button>
+  </div>
+</div>
+<script>
+  (function () {
+    var banner = document.getElementById('cookieBanner');
+    if (!banner) return;
+    var choice = localStorage.getItem('litexplore_cookie_consent');
+    if (choice) {
+      banner.classList.add('cookie-hidden');
+      banner.style.display = 'none';
+    }
+    function hideBanner() {
+      banner.classList.add('cookie-hidden');
+      setTimeout(function () { banner.style.display = 'none'; }, 400);
+    }
+    var acceptBtn = document.getElementById('cookieAccept');
+    var declineBtn = document.getElementById('cookieDecline');
+    if (acceptBtn) acceptBtn.addEventListener('click', function () {
+      localStorage.setItem('litexplore_cookie_consent', 'accepted');
+      hideBanner();
+    });
+    if (declineBtn) declineBtn.addEventListener('click', function () {
+      localStorage.setItem('litexplore_cookie_consent', 'declined');
+      hideBanner();
+    });
+  })();
+</script>
+
 </body>
 </html>
